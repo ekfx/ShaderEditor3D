@@ -1,0 +1,13 @@
+.clang-format
+CMakeFiles
+build
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+compile_commands.json
+imgui.ini
+mingw-toolchain.cmake
+.clangd
+.cache
+.clang-tidy
+.git
