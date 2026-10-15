@@ -15,5 +15,5 @@ A simple shader editor with 3D objects. You can add some cubes, change its scale
 
 ## Build
 ```bash
-mkdir build && cmake -S . && cmake -B build && cmake --build build && ./build/LabX3
+mkdir build && cmake -S . && cmake -B build && cmake --build build && ./build/ShaderEditor3D
 ```
